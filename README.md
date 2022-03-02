@@ -1,1 +1,2 @@
 # MyCV
+To store CV
